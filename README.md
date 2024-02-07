@@ -31,7 +31,7 @@
 ## Developer Experience (DevEx) Track 💻
 
 - **Challenge Areas:** Tools such as code editors, deployers, collaboration platforms, and developer community engagement solutions.
-- **Key Technologies:** AI for code analysis, Cloud-based development environments, Containerization, and DevOps tools.
+- **Key Technologies:** AI for code analysis, Cloud-based development environments or any IDE development. 
 - **Outcome Goals:** Enhancements in the developer workflow, making coding and collaboration more efficient, and improving developer experience through intuitive tools and platforms.
 
 *Note: Teams are encouraged to utilize any technologies and may develop either application-based or web-based solutions.* 🛠️
